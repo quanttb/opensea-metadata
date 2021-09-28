@@ -1,9 +1,8 @@
 {
-  "nftify": [
+  "posts": [
     {
-      "name": "Test 1",
-      "description": "Test",
-      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
