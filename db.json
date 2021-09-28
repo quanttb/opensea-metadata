@@ -1,6 +1,7 @@
 {
   "nftify": [
     {
+      "id": 1,
       "name": "Test 1",
       "description": "Test",
       "external_url": "https://github.com/quanttb",
